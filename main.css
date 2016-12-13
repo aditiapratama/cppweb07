@@ -1,0 +1,15 @@
+body {
+    width: 80%;
+    padding: 0 50px;
+}
+
+h1 {
+    font-family: Helvetica,sans-serif;
+    text-transform: capitalize;
+    color: #deb440;
+}
+
+p {
+    font-family: monospace;
+    line-height: 1.8em;
+}
